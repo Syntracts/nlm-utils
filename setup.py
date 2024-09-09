@@ -19,7 +19,7 @@ setup(
         "minio==7.1.0",
         "money==1.3.0",
         "msgpack==1.0.2",
-        "nltk==3.9",
+        "nltk==3.9.1",
         "numpy==1.24.4",
         "openai",
         "pymongo==3.11.4",
