@@ -12,7 +12,7 @@ setup(
     license='Apache License 2.0',
     packages=find_packages(),
     install_requires=[
-        "aiohttp==3.8.5",
+        "aiohttp==3.10.2",
         "dateparser",
         "dnspython==2.1.0",
         "word2number",
