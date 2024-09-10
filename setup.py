@@ -14,7 +14,7 @@ setup(
     install_requires=[
         "aiohttp==3.10.2",
         "dateparser",
-        "dnspython==2.1.0",
+        "dnspython==2.6.1",
         "word2number",
         "minio==7.1.0",
         "money==1.3.0",
