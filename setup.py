@@ -20,7 +20,7 @@ setup(
         "money==1.3.0",
         "msgpack==1.0.2",
         "nltk==3.9.1",
-        "numpy==1.24.4",
+        "numpy==2.0.2",
         "openai",
         "pymongo==4.6.3",
         "redis==5.0.8",
